@@ -1,1 +1,263 @@
-<mxfile host="app.diagrams.net" modified="2022-11-12T08:07:39.267Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.5.2" etag="jA9hFpqCrvaVi1BERCcS" type="github"><diagram id="8aDCWPC3B8ohMvIZ4cO-">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-12T08:28:57.856Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="I7SEem5sE0cwFx1rQIPp" version="20.5.2" type="github">
+  <diagram id="8aDCWPC3B8ohMvIZ4cO-" name="Page-1">
+    <mxGraphModel dx="1360" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Mrv_MjjHtVWF8FlWqP0l-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mrv_MjjHtVWF8FlWqP0l-2" target="Mrv_MjjHtVWF8FlWqP0l-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mrv_MjjHtVWF8FlWqP0l-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mrv_MjjHtVWF8FlWqP0l-2" target="Mrv_MjjHtVWF8FlWqP0l-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mrv_MjjHtVWF8FlWqP0l-2" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Subscriptions.svg;" vertex="1" parent="1">
+          <mxGeometry x="180" y="200" width="44" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="Mrv_MjjHtVWF8FlWqP0l-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mrv_MjjHtVWF8FlWqP0l-4" target="Mrv_MjjHtVWF8FlWqP0l-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mrv_MjjHtVWF8FlWqP0l-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.455;entryY=-0.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Mrv_MjjHtVWF8FlWqP0l-4" target="Mrv_MjjHtVWF8FlWqP0l-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mrv_MjjHtVWF8FlWqP0l-4" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Management_Groups.svg;" vertex="1" parent="1">
+          <mxGeometry x="409" y="80" width="66" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="Mrv_MjjHtVWF8FlWqP0l-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mrv_MjjHtVWF8FlWqP0l-5" target="Mrv_MjjHtVWF8FlWqP0l-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mrv_MjjHtVWF8FlWqP0l-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mrv_MjjHtVWF8FlWqP0l-5" target="Mrv_MjjHtVWF8FlWqP0l-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mrv_MjjHtVWF8FlWqP0l-5" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Subscriptions.svg;" vertex="1" parent="1">
+          <mxGeometry x="620" y="200" width="44" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="Mrv_MjjHtVWF8FlWqP0l-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mrv_MjjHtVWF8FlWqP0l-8" target="Mrv_MjjHtVWF8FlWqP0l-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="114" y="410" />
+              <mxPoint x="45" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mrv_MjjHtVWF8FlWqP0l-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mrv_MjjHtVWF8FlWqP0l-8" target="Mrv_MjjHtVWF8FlWqP0l-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="114" y="410" />
+              <mxPoint x="86" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mrv_MjjHtVWF8FlWqP0l-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mrv_MjjHtVWF8FlWqP0l-8" target="Mrv_MjjHtVWF8FlWqP0l-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="114" y="410" />
+              <mxPoint x="133" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mrv_MjjHtVWF8FlWqP0l-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mrv_MjjHtVWF8FlWqP0l-8" target="Mrv_MjjHtVWF8FlWqP0l-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="114" y="410" />
+              <mxPoint x="175" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mrv_MjjHtVWF8FlWqP0l-8" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;" vertex="1" parent="1">
+          <mxGeometry x="80" y="300" width="68" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="Mrv_MjjHtVWF8FlWqP0l-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.524;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Mrv_MjjHtVWF8FlWqP0l-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="284" y="407" as="sourcePoint" />
+            <mxPoint x="235.29999999999995" y="473" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="284" y="410" />
+              <mxPoint x="236" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mrv_MjjHtVWF8FlWqP0l-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.526;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Mrv_MjjHtVWF8FlWqP0l-9" target="Mrv_MjjHtVWF8FlWqP0l-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="284" y="410" />
+              <mxPoint x="277" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mrv_MjjHtVWF8FlWqP0l-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.533;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Mrv_MjjHtVWF8FlWqP0l-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="284" y="410" as="sourcePoint" />
+            <mxPoint x="323" y="476" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mrv_MjjHtVWF8FlWqP0l-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.3;entryY=-0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Mrv_MjjHtVWF8FlWqP0l-9" target="Mrv_MjjHtVWF8FlWqP0l-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="284" y="410" />
+              <mxPoint x="369" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mrv_MjjHtVWF8FlWqP0l-9" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;" vertex="1" parent="1">
+          <mxGeometry x="250" y="300" width="68" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="Mrv_MjjHtVWF8FlWqP0l-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="554" y="381" as="sourcePoint" />
+            <mxPoint x="475" y="427" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="554" y="407" />
+              <mxPoint x="475" y="407" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mrv_MjjHtVWF8FlWqP0l-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="554" y="361" as="sourcePoint" />
+            <mxPoint x="516" y="427" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="554" y="407" />
+              <mxPoint x="516" y="407" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mrv_MjjHtVWF8FlWqP0l-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="554" y="381" as="sourcePoint" />
+            <mxPoint x="615" y="427" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="554" y="407" />
+              <mxPoint x="615" y="407" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mrv_MjjHtVWF8FlWqP0l-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="554" y="361" as="sourcePoint" />
+            <mxPoint x="563" y="427" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="554" y="407" />
+              <mxPoint x="563" y="407" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mrv_MjjHtVWF8FlWqP0l-10" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;" vertex="1" parent="1">
+          <mxGeometry x="520" y="300" width="68" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="Mrv_MjjHtVWF8FlWqP0l-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mrv_MjjHtVWF8FlWqP0l-11" target="Mrv_MjjHtVWF8FlWqP0l-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="724" y="410" />
+              <mxPoint x="687" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mrv_MjjHtVWF8FlWqP0l-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.34;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Mrv_MjjHtVWF8FlWqP0l-11" target="Mrv_MjjHtVWF8FlWqP0l-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mrv_MjjHtVWF8FlWqP0l-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mrv_MjjHtVWF8FlWqP0l-11" target="Mrv_MjjHtVWF8FlWqP0l-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="724" y="407" />
+              <mxPoint x="775" y="407" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mrv_MjjHtVWF8FlWqP0l-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="723.5" y="384" as="sourcePoint" />
+            <mxPoint x="826.5" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="724" y="410" />
+              <mxPoint x="827" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mrv_MjjHtVWF8FlWqP0l-11" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;" vertex="1" parent="1">
+          <mxGeometry x="690" y="300" width="68" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="Mrv_MjjHtVWF8FlWqP0l-16" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/SQL_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="170" y="430" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mrv_MjjHtVWF8FlWqP0l-17" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/containers/App_Services.svg;" vertex="1" parent="1">
+          <mxGeometry x="118" y="430" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mrv_MjjHtVWF8FlWqP0l-19" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Disks_Classic.svg;" vertex="1" parent="1">
+          <mxGeometry x="30" y="430" width="30.54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mrv_MjjHtVWF8FlWqP0l-20" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;" vertex="1" parent="1">
+          <mxGeometry x="70" y="430" width="32.34" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mrv_MjjHtVWF8FlWqP0l-25" value="&lt;b&gt;Management Groups&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="415" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mrv_MjjHtVWF8FlWqP0l-26" value="&lt;b&gt;Subscriptions&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mrv_MjjHtVWF8FlWqP0l-27" value="&lt;b&gt;Subscriptions&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="612" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mrv_MjjHtVWF8FlWqP0l-28" value="&lt;b&gt;Resource Group&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="56.17" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mrv_MjjHtVWF8FlWqP0l-29" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/SQL_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="360" y="430" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mrv_MjjHtVWF8FlWqP0l-30" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/containers/App_Services.svg;" vertex="1" parent="1">
+          <mxGeometry x="308" y="430" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mrv_MjjHtVWF8FlWqP0l-31" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Disks_Classic.svg;" vertex="1" parent="1">
+          <mxGeometry x="220" y="430" width="30.54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mrv_MjjHtVWF8FlWqP0l-32" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;" vertex="1" parent="1">
+          <mxGeometry x="260" y="430" width="32.34" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mrv_MjjHtVWF8FlWqP0l-33" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/SQL_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="600" y="430" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mrv_MjjHtVWF8FlWqP0l-34" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/containers/App_Services.svg;" vertex="1" parent="1">
+          <mxGeometry x="548" y="430" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mrv_MjjHtVWF8FlWqP0l-35" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Disks_Classic.svg;" vertex="1" parent="1">
+          <mxGeometry x="460" y="430" width="30.54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mrv_MjjHtVWF8FlWqP0l-36" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;" vertex="1" parent="1">
+          <mxGeometry x="500" y="430" width="32.34" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mrv_MjjHtVWF8FlWqP0l-37" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/SQL_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="812" y="430" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mrv_MjjHtVWF8FlWqP0l-38" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/containers/App_Services.svg;" vertex="1" parent="1">
+          <mxGeometry x="760" y="430" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mrv_MjjHtVWF8FlWqP0l-39" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Disks_Classic.svg;" vertex="1" parent="1">
+          <mxGeometry x="672" y="430" width="30.54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mrv_MjjHtVWF8FlWqP0l-40" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;" vertex="1" parent="1">
+          <mxGeometry x="712" y="430" width="32.34" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mrv_MjjHtVWF8FlWqP0l-56" value="&lt;b&gt;Resource Group&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mrv_MjjHtVWF8FlWqP0l-58" value="&lt;b&gt;Resource Group&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490.54" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mrv_MjjHtVWF8FlWqP0l-60" value="&lt;b&gt;Resource Group&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mrv_MjjHtVWF8FlWqP0l-61" value="&lt;b&gt;Resources&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60.54000000000002" y="460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mrv_MjjHtVWF8FlWqP0l-62" value="&lt;b&gt;Resources&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mrv_MjjHtVWF8FlWqP0l-64" value="&lt;b&gt;Resources&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mrv_MjjHtVWF8FlWqP0l-65" value="&lt;b&gt;Resources&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="460" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
